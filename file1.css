@@ -575,6 +575,10 @@ section{
         width: 100%;
     }
 
+    .active .main .topbar{
+        left: 0;
+        width: 100%;
+    }
     .navigation ul{
         padding: 20px 20px;
     }
